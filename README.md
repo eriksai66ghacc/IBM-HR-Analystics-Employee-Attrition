@@ -192,8 +192,8 @@ Highest attrition roles:
 ---
 
 ## Dashboard
+![IBM HR Employee Attrition Dashboard](Dashboard/IBM_HR_Employee_Attrition_Dashboard.png)
 
-*(Insert dashboard screenshot here)*
 
 Example:
 
